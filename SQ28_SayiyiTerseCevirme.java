@@ -24,7 +24,7 @@ public class SQ28_SayiyiTerseCevirme {
         System.out.print(tersSayi);
 
 
-        System.out.println(" ");
+        System.out.println("======================= ");
 
 
 
