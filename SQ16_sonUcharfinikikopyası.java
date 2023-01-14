@@ -1,6 +1,6 @@
 package day00_ahmetHocaDersleri.simpleQuestions;
 
-public class SQ16 {
+public class SQ16_sonUcharfinikikopyası{
     public static void main(String[] args) {
         /*
         Soru 16-)  Kullanıcıdan en az 5 harfli bir kelime alın.

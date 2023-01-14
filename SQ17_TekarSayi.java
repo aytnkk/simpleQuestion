@@ -18,14 +18,30 @@ public class SQ17_TekarSayi {
     bunun ile kelimenin kaç defa geçtigini Loop içindeki İf ile bulabilirsiniz!
          */
 
-        char ch1='a';
+
         String name ="Ali bakkala geç gitti.";
-        String tekrarKrkt="";
+         char tekrarKrkt='a';
         int sayac=0;
 
+        for (int i = 1; i <name.length() ; i++) {
+           {
+                if (name.charAt(i)== (char)(tekrarKrkt)){
+
+                    sayac++;
+
+                }
 
 
+           }
+
+            System.out.println("tekrarlanan karakter sayisi=" +sayac);
+
+            }
+
+            }
         }
 
-    }
+
+
+
 
