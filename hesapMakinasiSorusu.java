@@ -4,7 +4,7 @@ import org.w3c.dom.ls.LSOutput;
 
 import java.util.Scanner;
 
-public class hesapMakinasi {
+public class hesapMakinasiSorusu {
     public static void main(String[] args) {
         /*Hesap Makinesi
      Problem Tanımı :

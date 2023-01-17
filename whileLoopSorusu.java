@@ -11,10 +11,10 @@ public class whileLoopSorusu {
             if (sayi % 7 == 0) {
                 System.out.println("7 ile bolunebilen pozitif tamsayilari: " +sayi);
 
-                sayi++;
+
 
         }
-
+            sayi++;
 
 
         }
